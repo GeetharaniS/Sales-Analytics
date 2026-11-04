@@ -175,6 +175,13 @@ The repository includes campaign creatives and dashboard-related visual assets d
 
 Refer to the PNG files in the repository for visual examples.
 
+## SCREEN SHOOT
+<img width="1024" height="791" alt="Image" src="https://github.com/user-attachments/assets/97e57236-371d-421b-afb7-ba469aae0304" />
+
+<img width="1024" height="791" alt="Image" src="https://github.com/user-attachments/assets/f8f0d728-d7ad-493e-a248-afa5fa42f1d1" />
+
+<img width="1024" height="791" alt="Image" src="https://github.com/user-attachments/assets/6fba3a4f-6f10-442c-a0e5-09340eb7c459" />
+
 ## 🔮 Future Enhancements
 
 - Develop and validate end-to-end churn prediction models.
