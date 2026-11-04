@@ -1,4 +1,4 @@
-# 📊 Telecom Sales Analytics & Customer Segmentation
+# 📊 Sales Analytics | Telecom Dashboard & Customer Analysis
 
 An end-to-end **Telecom Sales Analytics and Customer Intelligence project** designed to analyze customer behaviour, monitor business performance, predict customer churn, and develop targeted marketing strategies using data analytics, business intelligence, and machine learning.
 
